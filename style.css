@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+#app{
+    background-color: aqua;
+}
+#game{
+    background-color:red;
+}
+#ChatBot{
+    background-color:lawngreen;
+}
